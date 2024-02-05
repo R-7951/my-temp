@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 
+# Welcome to Zebra IoT Connector documentation!
 
 
 # Devices
@@ -25,7 +26,8 @@ For Vulcan Devices
 <img src='https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web004/fxr90-ethernet-4-port-photography-website-front-right-facing-with-shadow-3x2-3600.jpg.imgw.3600.3600.jpg' width ='40%' height ='40%'>
 
 
-<a href="https://r-7951.github.io/my-temp" target="_blank">Visit</a>
+
+[Visit](https://r-7951.github.io/my-temp){: .btn   .btn-green target="_blank" }
 
 
 ___
@@ -40,9 +42,6 @@ For FX /ATR Series Devices
 
 
  
-
-
-<a href="https://zebradevs.github.io/rfid-ziotc-docs" target="_blank">Visit</a>
-
+[Visit](https://zebradevs.github.io/rfid-ziotc-docs){: .btn  .btn-green target="_blank" }
 
 
