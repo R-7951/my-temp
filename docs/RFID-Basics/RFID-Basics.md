@@ -65,7 +65,7 @@ The tag memory is logically separated into four memory banks.
 |Memory Bank|Data|
 |--|--|
 |Reserved| Kill (First two words) and access passwords (3&4th word)
-|EPC| Identifies the asset/item beginning from 4th byte or 2nd word)
+|EPC| Identifies the asset/item beginning from 4th byte or 2nd word )
 |TID| Tag manufacturer specific information (Tag Model, serial number). PermaLocked during tag manufacturing. 
 |USER| Optional. Allows user-specific data storage.
 
@@ -80,6 +80,7 @@ Tag maintains an independent **Inventoried** flag for each session. Each of the 
 Tag has selected flag (**SL** flag). The reader may assert (SL) or deassert (~SL) the SL flag during tag population selection.
 
 ### Tag persistence
+
 |Flag|Persistence|
 |--|--|
 | S0 **inventoried** flag|Indefinite if tag energized|
@@ -90,13 +91,15 @@ Tag has selected flag (**SL** flag). The reader may assert (SL) or deassert (~SL
 
 
 
-  # Managing tag population
-  The reader manages the tag populations using the three basic operations as shown below:
-  ```mermaid
+# Managing tag population
+
+The reader manages the tag populations using the three basic operations as shown below:
+```mermaid
 graph LR
 A[Select] -->B[Inventory] --> C[Access]
 ```
 ## Select
+
 The reader Selects the tag population based on the following:
 
  - Target indicates whether Tag's **SL** or **inventoried** flag
@@ -105,7 +108,8 @@ The reader Selects the tag population based on the following:
  - Memory Bank (EPC, TID or User Memory)
  - Start Location, Length, Mask (bit string that tag compares)
  
-Tag Response to Action parameter:
+# Tag Response to Action parameter:
+
 |Action|Matching|Non-Matching|
 |--|--|--|
 | 0 |assert **SL** or **inventoried** -> A |deassert **SL** or **inventoried**->B|
@@ -116,6 +120,7 @@ Tag Response to Action parameter:
 | 5 |deassert **SL** or **inventoried** ->B |do nothing |
 | 6 |do nothing |assert **SL** or **inventoried** ->A |
 | 7 |do nothing |negate **SL** or **inventoried** (A->B, B->A) |
+
 ## Inventory
 The Inventory operation determines which tags to be participated based on the following parameters:
  - Sel - which tags to respond based on **SL** flag 

@@ -12,6 +12,12 @@ aux_links:
     - "https://www.zebra.com/us/en/support-downloads.html"
 
 
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+  
+
 nav_external_links:
   - title: Zebra Official Support 
     url: https://www.zebra.com/us/en/support-downloads.html

@@ -17,7 +17,7 @@ permalink: /docs/API-Reference
 
 For REST API Definitions 
 
-[Visit](https://r-7951.github.io/swaggerui-temp){: .btn   .btn-green target="_blank" }
+[External URL](https://r-7951.github.io/swaggerui-temp){: .btn   .btn-green target="_blank" }
 
 
 
