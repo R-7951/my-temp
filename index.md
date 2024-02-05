@@ -30,6 +30,5 @@ https://github.com/R-7951/my-temp/raw/main/assets/misc/wss_tagdata.mp4
 
 
 
-Mixture Variants:
+https://github.com/R-7951/my-temp/assets/83943778/d6ba3265-c933-4116-9236-c39e4adf3841
 
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
