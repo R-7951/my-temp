@@ -7,28 +7,42 @@ nav_order: 1
 
 
 
-## Devices
-
-
-![enter image description here](https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web004/fxr90-ethernet-4-port-photography-website-front-right-facing-with-shadow-3x2-3600.jpg.imgw.3600.3600.jpg)
-
-
-For Fx9600 /ATR 7000
-
-Visit 
-
-[Here](https://zebradevs.github.io/rfid-ziotc-docs)
+# Devices
 
 
 
 
-#### WebSockets
-
-https://github.com/R-7951/my-temp/raw/main/assets/misc/wss_tagdata.mp4
-
-#### TCP/IP
 
 
+{: .important }  
+For Vulcan Devices
 
-https://github.com/R-7951/my-temp/assets/83943778/d6ba3265-c933-4116-9236-c39e4adf3841
+
+
+
+
+
+<img src='https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web004/fxr90-ethernet-4-port-photography-website-front-right-facing-with-shadow-3x2-3600.jpg.imgw.3600.3600.jpg' width ='40%' height ='40%'>
+
+
+<a href="https://r-7951.github.io/my-temp" target="_blank">Visit</a>
+
+
+___
+
+
+{: .important }  
+For FX /ATR Series Devices
+
+<img src='https://www.zebra.com/us/en/support-downloads/rfid/rfid-readers/fx9600/jcr:content/mainpar/columncontrol_ba02/col1par/imagecomponent_99b1/image.adapt.1280.jpg/1667266178509.jpg' width ='40%' height ='40%'>
+
+<img src='https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web001/atr7000-front-facing-3x2-3600.jpg' width ='40%' height ='40%'>
+
+
+ 
+
+
+<a href="https://zebradevs.github.io/rfid-ziotc-docs" target="_blank">Visit</a>
+
+
 
