@@ -12,6 +12,8 @@ permalink: /docs/Quick-Start
 1. TOC
 {:toc}
 
+---
+
 # Quick Start
 This section covers the details on how to setup the reader out of the box to make it operational. 
 

@@ -1,11 +1,11 @@
-title: Zebra FXR90
+title: Zebra IoT Connector
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 
-logo: "assets/misc/logo-zebra-chat-dark.png"
+logo: "https://www.zebra.com/content/experience-fragments/zebra1/ap/en/footer/master/_jcr_content/root/container_499331825/container/col1par/image.coreimg.png/1697470365249/zebra-footer.png"
 
 aux_links:
   "Zebra IoT Connector":

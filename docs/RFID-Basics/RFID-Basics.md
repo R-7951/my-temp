@@ -13,6 +13,8 @@ permalink: /docs/RFID-Basics
 1. TOC
 {:toc}
 
+---
+
 
 # RFID Basics
   

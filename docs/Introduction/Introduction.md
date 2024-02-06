@@ -12,6 +12,8 @@ permalink: /docs/Introduction
 1. TOC
 {:toc}
 
+---
+
 ## Introduction
 
 Zebra IoT Connector is simplified interface to control and manage the Zebra RFID fixed readers. The ultimate goal of IoT connector is to help the partners or customers to integrate faster and reduce development time and effort with modern web-based programming methods. 

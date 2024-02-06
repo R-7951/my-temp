@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Demo
-nav_order: 9
+nav_order: 8
 has_children: false
 permalink: /docs/Demo
 ---
@@ -12,6 +12,8 @@ permalink: /docs/Demo
 
 1. TOC
 {:toc}
+
+---
 
 
 ## Demo

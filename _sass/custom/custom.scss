@@ -1,0 +1,64 @@
+
+
+
+
+  .rp_title {
+    position: relative;
+    margin-left:10px;
+    bottom: 2px;
+    font-size: 15px;
+  
+  }
+
+
+  .site-logo {
+    position: relative;
+    margin-left:-35px;
+    bottom: 2px;
+  
+  }
+
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #8BC34A;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #8BC34A;
+  }
+  
+
+
+  .nav-list .nav-list-item .nav-list-link,
+  .nav-list .nav-list-item>.nav-list .nav-list-item .nav-list-link {
+    padding-left: $sp-4;
+    padding-right: $sp-4;
+    padding-top: $sp-1;
+    padding-bottom: $sp-1;
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    border-left: 1px solid transparent;
+   // color: $body-text-color;
+  }
+  
+  .nav-list .nav-list-item .nav-list-link:hover,
+  .nav-list .nav-list-item>.nav-list .nav-list-item .nav-list-link:hover {
+    background-image: none;
+    background-color: #353535;
+    color: white;
+  }
+  
+  .nav-list .nav-list-item .nav-list-link.active,
+  .nav-list .nav-list-item>.nav-list .nav-list-item .nav-list-link.active {
+    background-image: none;
+    background-color:#2d2c2c;
+    border-left: 5px solid #8BC34A;
+    color: rgba(255,255,255,0.7);
+  }

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Certificate Management
-nav_order: 7
-has_children: false
-permalink: /docs/Certificate-Management
+nav_order: 2
+parent: Advanced
 ---
 
 ## Table of contents

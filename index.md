@@ -6,20 +6,14 @@ nav_order: 1
 
 
 # Welcome to Zebra IoT Connector documentation!
-
+---
 
 # Devices
 
 
 
-
-
-
 {: .important }  
 For Vulcan Devices
-
-
-
 
 
 
