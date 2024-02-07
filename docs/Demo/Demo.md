@@ -26,15 +26,26 @@ Simple Steps to read Tag data ( Quick Setup under 60 sec)
 ### HTTP Post
 
 
+<video width="100%" height="400px" controls>
+<source src="https://github.com/R-7951/my-temp/assets/83943778/18b7622c-2741-4182-908c-08e5b562af98" type="video/mp4">
+
+</video>
+
 
 ### MQTT
 
 
+<video width="100%" height="400px" controls>
+<source src="https://github.com/R-7951/my-temp/assets/83943778/f0347340-b082-4149-8407-cf26d492ab83" type="video/mp4">
+
+</video>
+
 ### WebSockets
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/Iwcagd5ghFs?si=XE70o6nox7mtc5uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video width="100%" height="400px" controls>
+<source src="https://github.com/R-7951/my-temp/assets/83943778/ede5d284-49db-4dd4-8000-a46813ad351a" type="video/mp4">
 
-
+</video>
 
 
 
@@ -42,4 +53,8 @@ Simple Steps to read Tag data ( Quick Setup under 60 sec)
 
 ### TCP/IP
 
+<video width="100%" height="400px" controls>
+<source src="https://github.com/R-7951/my-temp/assets/83943778/1622a956-7b65-42a7-9077-c22a716cec31" type="video/mp4">
+
+</video>
 
