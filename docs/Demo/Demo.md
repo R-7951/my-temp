@@ -22,7 +22,7 @@ permalink: /docs/Demo
 {: .note }  
 Simple Steps to read Tag data ( Quick Setup under 60 sec)
 
-
+---
 ### HTTP Post
 
 
@@ -31,7 +31,7 @@ Simple Steps to read Tag data ( Quick Setup under 60 sec)
 
 </video>
 
-
+---
 ### MQTT
 
 
@@ -39,6 +39,8 @@ Simple Steps to read Tag data ( Quick Setup under 60 sec)
 <source src="https://github.com/R-7951/my-temp/assets/83943778/f0347340-b082-4149-8407-cf26d492ab83" type="video/mp4">
 
 </video>
+
+---
 
 ### WebSockets
 
@@ -49,7 +51,7 @@ Simple Steps to read Tag data ( Quick Setup under 60 sec)
 
 
 
-
+---
 
 ### TCP/IP
 
